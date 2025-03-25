@@ -14,6 +14,7 @@ I'm a software engineer with a passion for unraveling complexity and turning cha
 - 👋 Hi, I’m Rajat P Rao
 - 👀 I’m interested in software developement, web development
 - 🌱 I’m currently interested in MERN stack development and have 4+ YOE in PHP software development
+- 👀 Check out my portfolio [Here](https://rajat4rao.github.io/)
 - 📫 reach me at
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balprao@gmail.com)
 - 📝 [Resume]().
