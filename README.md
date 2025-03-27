@@ -17,7 +17,7 @@ I'm a software engineer with a passion for unraveling complexity and turning cha
 - 👀 Check out my portfolio [Here](https://rajat4rao.github.io/)
 - 📫 reach me at
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balprao@gmail.com)
-- 📝 [Resume]().
+- 📝 [Resume](https://drive.google.com/file/d/1n7ufitYEyjEMioQexUrCO8VDmwOSEfjC/view?usp=sharing).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/rajat4rao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rajat P Rao" height="30" width="40" /></a>
